@@ -2,3 +2,5 @@ welcome to Coding
 
 i like chicken
 i am cool
+
+i am adding new stuff
